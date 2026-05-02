@@ -5,13 +5,14 @@ COMMANDS (orchestrated multi-step workflows — user types /command):
   /query — answer complex questions, file high-value syntheses back as wiki pages
   /lint-wiki — health-check the wiki: contradictions, orphans, stale claims, missing pages
   /full-audit-canon — full canon audit cycle: scope → scan → triage → fix → verify
+  /civilization-build — full derivation-chain civilization pipeline with enforced checkpoints
 
 SKILLS (progressive disclosure — loaded on demand):
   RESEARCH: /researching-papers (find/download papers), /integrating-research (map to canon formalism)
   READING: /deep-reading (content-map a file; structure, entities, claims)
-  AUDITING: /auditing-physics (cross-layer science contradictions), /auditing-canon (names, frontmatter, prose), /cross-checking (one term everywhere)
+  AUDITING: /auditing-physics (cross-layer science contradictions), /auditing-canon (names, frontmatter, prose), /cross-checking (one term everywhere), /auditing-human-assumptions (imported assumptions in any civ)
   WRITING: /writing-science (academic prose science files), /writing-worldbuilding (civilizations, characters, locations)
-  DESIGN: /designing-worlds (biomes, planets, climate), /designing-lore (myths, legends, eras, relics)
+  DESIGN: /designing-worlds (biomes, planets, climate), /designing-lore (myths, legends, eras, relics), /deriving-social-systems (derive coordination from biology/environment)
   EXTRACTION: /extracting-entities (pull entities from source docs), /compiling-entities (everything about one entity)
   PLANNING: /interrogating-design (stress-test a decision), /planning-worldbuilding (decompose large tasks)
   VERIFICATION: /verifying-completion (mandatory completion checklist before declaring done)

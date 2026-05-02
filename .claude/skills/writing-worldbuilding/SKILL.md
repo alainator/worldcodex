@@ -31,6 +31,19 @@ Write new non-science worldbuilding content following repo conventions.
 4. Cross-link to related files with relative markdown links
 5. Flag potential contradictions: `<!-- REVIEW: potential conflict with [file] -->`
 
+## Derivation-First Builds
+
+For civilizations being built from scratch — especially in novel environments
+or with non-human species — use `/civilization-build` instead of the scaffold
+below. The scaffold's categories (governance, economy) are useful shorthand
+for human civilizations in familiar contexts, but they can import assumptions
+when applied to novel situations. The `/civilization-build` command ensures
+every social structure is derived from biology and environment first.
+
+The scaffold below remains useful for quick expansions of existing civilizations
+or for human civilizations in Earth-like contexts where the derivation has
+already been done (implicitly, by history).
+
 ## Civilization Scaffold
 
 When creating a civilization, address: governance, cultural identity,

@@ -1,10 +1,10 @@
-# WorldCodex
+# Worldbuilding Codex
 
-A complete Claude Code skill suite for building and maintaining fictional universes with scientific rigor. 17 skills, 4 commands, 3 agents with persistent memory, 6 hooks across 5 lifecycle events, and an epistemological framework adapted from metascience research.
+A complete Claude Code skill suite for building and maintaining fictional universes with scientific rigor. 19 skills, 5 commands, 3 agents with persistent memory, 6 hooks across 5 lifecycle events, and an epistemological framework adapted from metascience research.
 
 ## What It Does
 
-WorldCodex turns Claude Code from a chatbot into a disciplined worldbuilding engine. It enforces canon consistency, prevents deferral, survives context compaction, and treats your fictional universe with the same structural rigor a codebase deserves.
+Worldbuilding Codex turns Claude Code from a chatbot into a disciplined worldbuilding engine. It enforces canon consistency, prevents deferral, survives context compaction, and treats your fictional universe with the same structural rigor a codebase deserves.
 
 **The core insight:** The tools that make Claude Code useful for code — persistent file systems, hooks, skills, agents, long autonomous sessions — map almost perfectly to the worldbuilding problem. Code has compilation errors → you have physics contradictions. Code has tests → you have canon audits. Code has architecture docs → you have a foundations layer. Code has linting → you have naming enforcement.
 
@@ -24,13 +24,13 @@ Three operational tiers ([Trinity Architecture](https://github.com/shanraisshan/
 |-----------|------|---------|
 | **Commands** | Orchestrate multi-step workflows | `/ingest`, `/query`, `/lint-wiki`, `/full-audit-canon` |
 | **Agents** | Autonomous executors with isolated context | `@worldbuilder-physicist`, `@worldbuilder-editor`, `@worldbuilder-researcher` |
-| **Skills** | Progressive-disclosure knowledge loaded on demand | 17 skills across research, writing, auditing, design, planning, verification |
+| **Skills** | Progressive-disclosure knowledge loaded on demand | 19 skills across research, writing, auditing, design, planning, verification |
 
 ## Installation
 
 ```bash
 # Clone into your worldbuilding project
-git clone https://github.com/YOUR-USERNAME/worldcodex.git /tmp/wbc
+git clone https://github.com/YOUR-USERNAME/worldbuilding-codex.git /tmp/wbc
 
 # Copy the .claude directory into your project
 cp -r /tmp/wbc/.claude /path/to/your/worldbuilding-project/
@@ -60,7 +60,7 @@ Then open Claude Code in your project. The bootstrap hook loads automatically.
 | `post-tool-use.sh` | PostToolUse | Lints formatting after every write |
 | `pre-compact.md` | PreCompact | Saves session state before context compaction |
 
-### 4 Commands
+### 5 Commands
 
 | Command | Purpose |
 |---------|---------|
@@ -68,14 +68,15 @@ Then open Claude Code in your project. The bootstrap hook loads automatically.
 | `/query` | Answer questions from the wiki → file high-value syntheses as new pages |
 | `/lint-wiki` | Health-check: contradictions, orphans, stale claims, ghost entities |
 | `/full-audit-canon` | Full audit cycle: scope → scan → triage → fix → verify |
+| `/civilization-build` | Full derivation-chain civilization pipeline with enforced checkpoints |
 
-### 17 Skills
+### 19 Skills
 
 **Research:** `researching-papers`, `integrating-research`
 **Reading:** `deep-reading`
-**Auditing:** `auditing-physics`, `auditing-canon`, `cross-checking`
+**Auditing:** `auditing-physics`, `auditing-canon`, `cross-checking`, `auditing-human-assumptions`
 **Writing:** `writing-science`, `writing-worldbuilding`
-**Design:** `designing-worlds`, `designing-lore`
+**Design:** `designing-worlds`, `designing-lore`, `deriving-social-systems`
 **Extraction:** `extracting-entities`, `compiling-entities`
 **Planning:** `interrogating-design`, `planning-worldbuilding`
 **Verification:** `verifying-completion`
@@ -117,8 +118,8 @@ Adapted from metascience research (Ioannidis, Gelman, Taleb, Hossenfelder, Pearl
 
 | Feature | This | Superpowers | cc-sentinel | Raw CLAUDE.md |
 |---------|------|------------|-------------|---------------|
-| Skills | 17 worldbuilding-specific | 14 code-specific | 0 | 0 |
-| Commands | 4 (wiki lifecycle) | 3 (code lifecycle) | 0 | 0 |
+| Skills | 19 worldbuilding-specific | 14 code-specific | 0 | 0 |
+| Commands | 5 (wiki lifecycle + civilization) | 3 (code lifecycle) | 0 | 0 |
 | Agents | 3 with persistent memory | 0 | 0 | 0 |
 | Hooks | 6 across 5 events | 1 | 3 | 0 |
 | Epistemological framework | Yes (named sources) | No | No | No |
