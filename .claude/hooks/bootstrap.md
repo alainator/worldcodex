@@ -20,6 +20,8 @@ SKILLS (progressive disclosure — loaded on demand):
 
 AGENTS: @worldbuilder-physicist (physics consistency, real science grounding), @worldbuilder-researcher (read-only lookup), @worldbuilder-editor (writing quality, prose standards). All agents have persistent memory at .claude/agent-memory/ — they learn across sessions.
 
+KEY TOOLS: tools/research-tool.py (paper search/download across arXiv, Crossref, PMC, Semantic Scholar, Open Library, SEP)
+
 REASONING PRINCIPLES (apply to every task):
   Mechanism over association — state the causal chain or it's not proven.
   First-principles over tropes — derive from established physics/biology, not genre convention.

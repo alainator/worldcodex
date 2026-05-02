@@ -5,6 +5,13 @@
 .claude/settings.local.json
 CLAUDE.local.md
 
+# Downloaded research (large PDFs — keep the index)
+_source/research/papers/
+_source/research/markdown/
+_source/research/sep-entries/
+_source/research/last-search-results.json
+
 # OS files
 .DS_Store
 Thumbs.db
+__pycache__/

@@ -100,6 +100,21 @@ Adapted from metascience research (Ioannidis, Gelman, Taleb, Hossenfelder, Pearl
 - **6 Metascience Filters:** Sample size, effect size, confirmation bias, flexible analysis, replication, survivorship bias
 - **7 Adversarial Protocols:** Red Teaming (5-level escalation), Adversarial Collaboration (Kahneman protocol), Russell Conjugation stripping, Self-Correction Loop, Ensemble Thinking, Active Inference, CADS
 
+### Research Tool
+
+`tools/research-tool.py` — searches 8 open-access academic sources, downloads PDFs, converts to markdown. No API keys required.
+
+| Source | Coverage |
+|--------|----------|
+| arXiv | Physics, math, CS, q-bio |
+| Crossref | All disciplines (150M+ papers) |
+| Unpaywall | Finds open-access PDFs by DOI |
+| PubMed Central | Biomedical, open access |
+| Semantic Scholar | All disciplines, citation counts |
+| Open Library | Books, monographs |
+| Stanford Encyclopedia of Philosophy | Peer-reviewed philosophy entries |
+| PhilPapers | Search URL generation (no API) |
+
 ### Governance
 
 - **Deny list** protects all `.claude/` files from mid-session edits
