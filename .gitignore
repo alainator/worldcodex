@@ -1,0 +1,10 @@
+# Session state (don't commit active session data)
+.claude/CURRENT_TASK.md
+
+# Local settings
+.claude/settings.local.json
+CLAUDE.local.md
+
+# OS files
+.DS_Store
+Thumbs.db
