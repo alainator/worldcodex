@@ -68,7 +68,7 @@ Then open Claude Code in your project. The bootstrap hook loads automatically.
 | `/query` | Answer questions from the wiki → file high-value syntheses as new pages |
 | `/lint-wiki` | Health-check: contradictions, orphans, stale claims, ghost entities |
 | `/full-audit-canon` | Full audit cycle: scope → scan → triage → fix → verify |
-| `/civilization-build` | Full derivation-chain civilization pipeline with enforced checkpoints |
+| `/civilization-build` | Full derivation-chain pipeline: planet → biology → cognition → culture → cultural layer (Step 4.5) → technology → language → science → history |
 
 ### 19 Skills
 
@@ -76,7 +76,7 @@ Then open Claude Code in your project. The bootstrap hook loads automatically.
 **Reading:** `deep-reading`
 **Auditing:** `auditing-physics`, `auditing-canon`, `cross-checking`, `auditing-human-assumptions`
 **Writing:** `writing-science`, `writing-worldbuilding`
-**Design:** `designing-worlds`, `designing-lore`, `deriving-social-systems`
+**Design:** `designing-worlds`, `designing-lore`, `deriving-social-systems` (6-phase derivation with communication medium taxonomy, terrain-to-settlement, bond allocation, sister-population delta-derivation, catastrophe resilience spectrum)
 **Extraction:** `extracting-entities`, `compiling-entities`
 **Planning:** `interrogating-design`, `planning-worldbuilding`
 **Verification:** `verifying-completion`
