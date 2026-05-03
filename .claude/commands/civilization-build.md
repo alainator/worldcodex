@@ -100,6 +100,12 @@ In both cases, derive:
 
 ## Step 4: Culture (Skill: /deriving-social-systems)
 
+The cultural layer (Step 4.5) derives the deeper cultural practices —
+aesthetic tradition, performance, meaning-making, memory, childhood,
+and novel forms — from the same constraint chain. Step 4 derives
+coordination structures; Step 4.5 derives what those structures feel
+like from the inside.
+
 Derive social structures from cognition, biology, and environment.
 Do NOT start with a checklist of institutions. Start from what the
 derivation produces.
@@ -121,7 +127,53 @@ institutions that have no precedent in the historical record.
 This applies to human civilizations too — checking for assumptions imported
 from one cultural context and applied uncritically to a novel one.
 
-**Checkpoint 4:** Author approves culture before technology begins.
+**Checkpoint 4:** Author approves culture before cultural layer begins.
+
+## Step 4.5: Cultural Layer (Skill: /deriving-social-systems)
+
+Derive the cultural layer from the same constraint chain that produced
+the social structures. Do NOT import human cultural categories and fill
+them in. Ask what each constraint produces culturally.
+
+Six required derivation categories:
+
+1. **Aesthetic tradition.** What is beauty for this species in this
+   environment? Derive from the primary sensory modality and the local
+   environment character. Beauty is not universal — it is shaped by
+   what the species perceives and what the environment produces.
+
+2. **Performance and communal experience.** What shared experiences does
+   the biology and environment enable? For contact-resonance species:
+   substrate-conducted shared perception. For chemical-communication
+   species: collective scent environments. For visual species: chromatic
+   display. Derive from the communication modality, not from human
+   assumptions about music, theater, or ceremony.
+
+3. **Meaning-making and mystery.** What epistemological gaps exist — what
+   does this civilization NOT understand about its world? What practices
+   develop around those gaps? Not religion unless the preconditions for
+   religion are met (supernatural agency detection, existential uncertainty
+   requiring narrative resolution). If those preconditions are absent,
+   what fills the same functional space?
+
+4. **Memory and the dead.** How does this species relate to organisms
+   that have died? What persists after biological death — residue in
+   substrate, chemical trace in environment, nothing? What practices
+   develop around whatever persists or doesn't?
+
+5. **Pre-sapient/pre-bonding childhood.** What is the experience of
+   existence before full cognitive capacity develops? For species with
+   developmental thresholds (bonding-gated sapience, metamorphosis,
+   age-dependent cognition): what does the world feel like at lower
+   cognitive levels? What practices develop around this period?
+
+6. **Novel cultural forms.** After deriving categories 1–5, check: did
+   the derivation produce any cultural practices that have NO familiar
+   analogue? If yes, these are the most valuable output — the practices
+   that make this civilization genuinely new rather than a reskin of
+   familiar culture. Give them full treatment.
+
+**Checkpoint 4.5:** Author approves cultural layer before technology begins.
 
 ## Step 5: Technology (Skills: /writing-worldbuilding, /interrogating-design)
 

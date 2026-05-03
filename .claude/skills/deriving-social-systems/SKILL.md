@@ -56,6 +56,44 @@ flag it as a gap — do not assume.
   match their internal state?)
 - Is communication one-to-one, one-to-many, or ambient?
 
+**Medium-dependent communication physics:**
+
+The communication medium determines more social structure than any other
+single constraint. Identify which category the environment produces:
+
+1. **Full-fidelity solid substrate** — dense crystalline mineral with
+   coherent propagation. Signal arrives as sent. Settlement and governance
+   can be continuous.
+
+2. **Phonon-dead loose substrate** — sand, loose soil, fragmented particles.
+   Signal attenuates within body-lengths. Produces communication islands
+   and cross-silence transit challenges. Settlement clusters at conductive
+   outcroppings.
+
+3. **Carrier-preserving but content-stripping solid** — ice, certain polymers.
+   Mechanical carrier propagates but encoding dimension is lost. Produces
+   hub-and-spoke topology with decoder relay stations.
+
+4. **Carrier-preserving but content-stripping liquid** — water, dilute
+   solution. Signal range varies with gap width. Produces island-polity
+   independence or temporal-encoding relay solutions.
+
+5. **Carrier-preserving with signal transformation** — mineral-rich brine,
+   chemically active solution. Content partially survives but is transformed
+   by the medium's chemistry. The message arrives different from how it was
+   sent. Produces cultures where the transformation itself becomes a
+   philosophical element.
+
+6. **Cascade-amplifying substrate** — fractal-fracture crystal with nested
+   feedback. Signal enters and returns complexified by the substrate's
+   geometry. Information is added by the medium. Produces civilizations
+   whose perception includes the substrate's own contribution to every signal.
+
+Each medium type produces a different governance topology, knowledge
+transmission architecture, and philosophical relationship to communication
+itself. Identify the medium type FIRST, then derive the social structures
+that the medium produces.
+
 **Cognitive constraints:**
 - Is cognition individual, paired, collective, or distributed?
 - Can the species model other minds? (Theory of mind level)
@@ -88,6 +126,27 @@ flag it as a gap — do not assume.
 - What does the climate demand? (Shelter, migration, seasonal behavior)
 - What energy sources are available and how are they accessed?
 - What natural hazards shape behavior and settlement?
+
+**Terrain constraints:**
+
+The physical shape of the landscape determines what settlement patterns
+are possible before any social choice is made.
+
+- Is the terrain vertical (mountains, spires, cave systems, canyon walls)
+  or horizontal (plains, salt flats, ocean surface)?
+- Is the terrain continuous (unbroken substrate across the habitable zone)
+  or fragmented (islands, capsules, oases, cave systems separated by
+  impassable gaps)?
+- Is the terrain stable (geological timescale persistence) or dynamic
+  (volcanic resurfacing, erosion, precipitation/dissolution cycles)?
+- What is the terrain's communication character? (Does it conduct,
+  attenuate, transform, or amplify the species' communication medium?)
+
+Settlement patterns are DERIVED from terrain constraints, not chosen from
+a menu. A fragmented terrain produces multiple isolated settlements. A
+continuous terrain permits continuous governance. A dynamic terrain prevents
+permanent infrastructure. Document the terrain first, then derive what
+it allows.
 
 ### Phase 2: Derivation Questions
 
@@ -188,6 +247,37 @@ does membership work?
 - If reproduction is asexual or communal → kinship as humans understand
   it may not exist
 
+**Bond allocation (for species with bonding-gated sapience):**
+
+If this species achieves cognitive enhancement through biological bonding
+(symbiotic integration, parasitic attachment, metamorphic partnership, or
+any mechanism where one organism enhances another's cognition through
+physical integration):
+
+- How many bonds can an individual host simultaneously? Does the biology
+  support variable bond count?
+- Does bond count correlate with cognitive capacity? If so, controlling
+  who receives additional bonds is the most powerful governance lever
+  available. How does this civilization manage that power?
+- Pre-civilization: was bonding random/instinctive? What changed when
+  civilizations recognized the cognitive correlation?
+- What is the cultural attitude toward bond count? Is it a reward for
+  contribution, a birthright, a sacred gift, or unregulated?
+
+**Congenital variation:**
+
+Every threshold-dependent developmental mechanism produces a distribution
+of outcomes, not a binary. For any biologically complex species:
+
+- What happens to individuals born outside the standard biological range?
+  Zero bond nodes, atypical reproductive output, non-functional sensory
+  apparatus, intermediate type expression?
+- How does this civilization treat biological variation? Is it accommodated,
+  excluded, revered, feared, or instrumentalized?
+- Has any technology been derived from studying atypical biology? (The
+  most consequential technologies often originate from studying what was
+  initially considered defective.)
+
 ### Phase 3: Structure Naming
 
 After derivation, name each structure in two ways:
@@ -247,6 +337,31 @@ Absence is as important as presence. A civilization without property law
 is not "primitive" — it may exist in conditions where property is an
 incoherent concept. Document the absence and the reason.
 
+**Catastrophe resilience profile:**
+
+If the world has experienced or will experience a civilization-scale
+catastrophic event (network collapse, environmental shift, resource
+exhaustion), derive where this civilization sits on the resilience spectrum:
+
+- **Network-dependent (most vulnerable):** Civilization's infrastructure
+  relies on interconnected systems (relay networks, trade routes, continuous
+  communication). Catastrophe that disrupts the network cascades through
+  all connected nodes simultaneously.
+
+- **Peripherally-connected (partially vulnerable):** Connected to the
+  network but not dependent on it for core survival functions. Catastrophe
+  damages but does not destroy.
+
+- **Structurally isolated (resilient through irrelevance):** Never connected
+  to the network. The catastrophe that destroyed connected civilizations
+  passes through as attenuated noise. Survival is not a virtue — it is a
+  structural consequence of pre-existing isolation.
+
+The resilience position is determined by the same communication and
+geographic constraints that produced the civilization's social structure.
+It is not a separate analysis — it is a consequence of the derivation
+already completed. Document it as an output, not as a design decision.
+
 ### Phase 5: Emergent Novelty
 
 After Phases 2–4, check: did the derivation produce any coordination
@@ -262,6 +377,47 @@ one. Give them full treatment:
 - Name them functionally
 - Flag them for the author as the civilization's distinctive social
   contributions
+
+### Phase 6: Sister-Population Derivation (Optional — Use When Applicable)
+
+When a population shares ancestral biology with an already-derived
+population and differs primarily in geographic or environmental conditions,
+use delta-derivation rather than building from scratch.
+
+**Procedure:**
+
+1. Load the existing sister population's nation file completely. All shared
+   biology, communication physics, and environmental chemistry carry over.
+
+2. Identify the SPECIFIC environmental variables that differ: terrain type,
+   temperature, elevation, proximity to water, substrate variant, atmospheric
+   exposure.
+
+3. For each differing variable, trace the cascade through the derivation
+   chain: how does this one change alter communication, settlement pattern,
+   resource access, group dynamics, governance, knowledge transmission, and
+   cultural identity?
+
+4. Derive the divergence narrative: what the ancestor population was, when
+   the split occurred (or whether it was gradual geographic drift rather
+   than a discrete event), and what each population considers the defining
+   difference between them.
+
+5. Document the relationship from BOTH sides: each sister population has
+   a perspective on the other that derives from what it values most about
+   its own adaptation. The tension between sister populations is not
+   hostility — it is the quiet certainty of two groups who share everything
+   except the particular thing each has built its identity around.
+
+**When to use:** Any time two populations share >80% of their biological
+and environmental constraints. The delta-derivation is faster and more
+reliable than independent full derivation because it prevents accidental
+divergence in shared biology.
+
+**When NOT to use:** When populations share geography but not biology
+(different species), or when the environmental difference is so extreme
+that the shared biology produces fundamentally different organisms (at
+that point, use full independent derivation).
 
 ## Output
 
